@@ -1,0 +1,22 @@
+slopeone1 base1
+
+Execution time was 760850 ms.
+6000个用户左右，3952个电影
+12~13min
+942用户，1682电影
+Execution time was 18000 ms.左右
+
+
+weight 400 000ms
+MAE=0.8593587371019231
+RMSE=1.11274956332296
+recall=0.035842293906810034
+precision=0.1
+232ms
+
+weightless 141857ms
+MAE=1.769255502407369
+RMSE=2.1236772230587535
+recall=0.03225806451612903
+precision=0.09
+232ms
