@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T07:47:36.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="tYS62dRdjEaRJTBKjI0S" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T08:07:47.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" etag="qQNPqlBKCCKH3CYWHjhS" version="13.6.6" type="github">
   <diagram id="MnLv_0w_TifV8Hl3NhlG" name="Page-1">
     <mxGraphModel dx="1728" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="PL5oTx_WVRWjmE8jnyH3-2" value="ByteBuf" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="215" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PL5oTx_WVRWjmE8jnyH3-6" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(254 , 254 , 242)&quot;&gt;Netty的连接处理就是IO事件的处理，IO事件包括读事件、ACCEPT事件、写事件和OP_CONNECT事件&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="420" width="610" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
